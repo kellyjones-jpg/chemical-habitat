@@ -1,2 +1,2 @@
-# chemical-habitat
-Immersive underwater 3D environment showing the effects of pollution in the Tennessee River using three.js
+# Decatur Flats: A Chemical Habitat
+Immersive 3D exploration of PFAS and industrial pollution in the Tennessee River using three.js.
